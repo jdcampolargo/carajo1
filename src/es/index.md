@@ -8,14 +8,14 @@ pagination:
   reverse: true
   alias: posts
 
-slogan: "SSG con baterias incluidas"
+slogan: "Una Nueva Initiativa"
 hero_button_link: "/es"
 description: Fundamenty, Proyecto plantilla de Eleventy.
 keywords: ["eleventy", "ssg", "sitios web", "plantilla"]
 ---
 <div
     style="background-image:
-           url('{{ "/images/background.jpg"  | url}}');
+           url('{{ "/images/usa-venezuela.jpeg"  | url}}');
     height:200px;
     background-size: 100%;
     background-position:center;">&nbsp;</div>

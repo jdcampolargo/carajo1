@@ -1,14 +1,14 @@
 {
-    "repoUrl": "https://github.com/creasoft-dev/fundamenty",
+    "repoUrl": "https://github.com/jdcampolargo/carajo",
     "repoDefaultBranch": "main",
     "rootUrl": "https://fundamenty.netlify.app",
 
-    "name": "Fundamenty",
-    "logoUrl": "/images/logo.png",
-    "faviconUrl": "/images/logo.ico",
+    "name": "Carajo",
+    "logoUrl": "/images/flag.png",
+    "faviconUrl": "/images/flag.ico",
     "googleTagId": "",
 
-    "defaultLang": "en",
+    "defaultLang": "es",
     "langs": [{
         "id": "en",
         "name": "English"

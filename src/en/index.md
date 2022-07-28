@@ -8,14 +8,14 @@ pagination:
   reverse: true
   alias: posts
 
-slogan: "SSG with batteries included"
+slogan: "Una Nueava Initiativa"
 hero_button_link: "/en"
 description: Fundamenty, Eleventy Starter kit with multilingual support and more.
 keywords: ["eleventy", "ssg", "JAMStack", "starter"]
 ---
 <div
     style="background-image:
-           url('{{ "/images/background.jpg"  | url}}');
+           url('{{ "/images/usa-venezuela.jpeg"  | url}}');
     height:200px;
     background-size: 100%;
     background-position:center;">&nbsp;</div>
