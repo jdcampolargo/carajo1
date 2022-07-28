@@ -18,7 +18,7 @@ jobs:
       - name: Build Eleventy
         run: yarn build
         env:
-          REPO_URL: https://github.com/creasoft-dev/fundamenty
+          REPO_URL: https://github.com/jdcampolargo/carajo
           WEB_PATH_PREFIX: /fundamenty/
           WEB_ROOT_URL: https://creasoft-dev.github.io/
       

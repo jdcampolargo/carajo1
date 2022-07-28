@@ -1,6 +1,6 @@
 ---
 title: Inicio
-layout: layout/page_with_posts.njk
+layout: layout/landing.njk
 
 pagination:
   data: collections.posts_es
@@ -21,25 +21,19 @@ keywords: ["eleventy", "ssg", "sitios web", "plantilla"]
     background-position:center;">&nbsp;</div>
 
 
-# Construya su propio sitio web
+# Hola
 
-¿Que espera para divulgar su conocimiento? ¡El mundo le espera!
+¿Que esperas para buscar tu talento? ¡El mundo le espera!
 
 
-## Fundamenty, el projecto fundamental para creara sitio JAMStack
+## Que es esto?
 
-Simplemente clonee el [repositorio](https://github.com/creasoft-dev/fundamenty), y ejecute
-`yarn serve`
+Una guía para ayudarte a crear tu futuro y conocer las diferentes oportunidadas que existen
 
-### El proyecto trae incluido lo siguiente para, su conveniencia:
-- Soporte de multilenguas.
-- Integración con motor de búsqueda [Algolia](https://www.algolia.com/) (autocomplete).
-- [Google Analytics](https://analytics.google.com/).
-- Funcionalidad de editar en GitLab/GitHub.
-- Generación de los archivos `robots.txt` y `sitemap.xml` para SEO.
-- [GitHub Actions](https://docs.github.com/en/actions) script para instalar en GitHub Pages.
-- [GitLab-CI](https://about.gitlab.com/stages-devops-lifecycle/continuous-integration/) script para instalar on GitLab Pages.
-- Herramienta CLI para inicializar sitio y generar archivo de contenidos.
+### Como Funciona?
+- Como tu quieras. Primariomente, una guia
+- Cursos cortos con maximo de una semana con la opción de explorar varias areas y ayudarte a buscar tu talento
+- 
 
 ### El projecto utiliza:
 - [TailwindCSS](https://tailwindcss.com/)
