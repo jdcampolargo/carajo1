@@ -8,7 +8,7 @@ pagination:
   reverse: true
   alias: posts
 
-slogan: "Una Nueava Initiativa"
+slogan: "Una Nueva Initiativa"
 hero_button_link: "/en"
 description: Fundamenty, Eleventy Starter kit with multilingual support and more.
 keywords: ["eleventy", "ssg", "JAMStack", "starter"]
